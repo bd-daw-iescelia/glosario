@@ -38,6 +38,10 @@ bla bla bla
 
 # O
 
+## Oracle
+
+Compañía especializada en el desarrollo de soluciones de nube y locales. Es la primera compañía de software de estereotipos que desarrolla e implementa aplicaciones para empresas cien por ciento activado por Internet. 
+
 # P
 
 # Q
@@ -57,3 +61,4 @@ bla bla bla
 # X
 
 # Z
+
