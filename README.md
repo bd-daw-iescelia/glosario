@@ -12,6 +12,10 @@ bla bla bla
 
 # B
 
+## Base de datos
+
+Una base de datos es un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso.
+
 ## Base de datos relacional
 
 Una base de datos relacional es un tipo de base de datos que cumple con el modelo relacional postulado por Edgar Frank Codd, de los laboratorios IBM. Estas bases se componen de varias tablas relacionadas sin registros repetidos, organizadas en filas y columnas, por medio de claves primarias y foráneas
@@ -63,6 +67,7 @@ Compañía especializada en el desarrollo de soluciones de nube y locales. Es la
 # S
 
 ## Sistema gestor de base de datos (SGBD)
+
 Es un conjunto de herramientas que facilita la consulta, el uso y actualización de una base de datos. 
 
 # T
