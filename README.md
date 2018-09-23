@@ -12,6 +12,10 @@ bla bla bla
 
 # B
 
+## Blockchain
+
+Estructura de datos en la que la información contenida es almacenada en conjuntos que contienen información de los conjuntos anteriores y que gracias a técnicas de criptografía esta información puede ser repudiada o editada modificando todos los bloques posteriores.
+
 # c
 
 # D
