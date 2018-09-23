@@ -12,9 +12,21 @@ bla bla bla
 
 # B
 
-##Base de datos
+## Base de datos
 
 Una base de datos es un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso.
+
+## Base de datos relacional
+
+Una base de datos relacional es un tipo de base de datos que cumple con el modelo relacional postulado por Edgar Frank Codd, de los laboratorios IBM. Estas bases se componen de varias tablas relacionadas sin registros repetidos, organizadas en filas y columnas, por medio de claves primarias y foráneas
+
+## Base de datos en red
+
+Es una base de datos conformada por una colección o set de registros, los cuales están conectados entre sí por medio de enlaces en una red. El registro es similar al de una entidad como las empleadas en el modelo relacional.
+
+## Blockchain
+
+Estructura de datos en la que la información contenida es almacenada en conjuntos que contienen información de los conjuntos anteriores y que gracias a técnicas de criptografía esta información puede ser repudiada o editada modificando todos los bloques posteriores.
 
 # c
 
@@ -54,6 +66,10 @@ Compañía especializada en el desarrollo de soluciones de nube y locales. Es la
 
 # S
 
+## Sistema gestor de base de datos (SGBD)
+
+Es un conjunto de herramientas que facilita la consulta, el uso y actualización de una base de datos. 
+
 # T
 
 # U
@@ -65,4 +81,3 @@ Compañía especializada en el desarrollo de soluciones de nube y locales. Es la
 # X
 
 # Z
-
