@@ -16,6 +16,10 @@ bla bla bla
 
 Es una base de datos conformada por una colección o set de registros, los cuales están conectados entre sí por medio de enlaces en una red. El registro es similar al de una entidad como las empleadas en el modelo relacional.
 
+## Blockchain
+
+Estructura de datos en la que la información contenida es almacenada en conjuntos que contienen información de los conjuntos anteriores y que gracias a técnicas de criptografía esta información puede ser repudiada o editada modificando todos los bloques posteriores.
+
 # c
 
 # D
