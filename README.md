@@ -62,6 +62,9 @@ Compañía especializada en el desarrollo de soluciones de nube y locales. Es la
 
 # S
 
+## Sistema gestor de base de datos (SGBD)
+Es un conjunto de herramientas que facilita la consulta, el uso y actualización de una base de datos. 
+
 # T
 
 # U
