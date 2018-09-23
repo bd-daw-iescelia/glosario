@@ -12,6 +12,10 @@ bla bla bla
 
 # B
 
+## Base de datos en red
+
+Es una base de datos conformada por una colección o set de registros, los cuales están conectados entre sí por medio de enlaces en una red. El registro es similar al de una entidad como las empleadas en el modelo relacional.
+
 # c
 
 # D
