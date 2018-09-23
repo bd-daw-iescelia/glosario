@@ -12,7 +12,7 @@ bla bla bla
 
 # B
 
-##Base de datos relacional
+## Base de datos relacional
 Una base de datos relacional es un tipo de base de datos que cumple con el modelo relacional postulado por Edgar Frank Codd, de los laboratorios IBM. Estas bases se componen de varias tablas relacionadas sin registros repetidos, organizadas en filas y columnas, por medio de claves primarias y foráneas
 
 # c
