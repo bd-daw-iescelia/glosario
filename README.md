@@ -16,6 +16,10 @@ bla bla bla
 
 Una base de datos es un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso.
 
+## Base de datos centralizada
+
+Es una base de datos almacenada completamente en un solo lugar físico, es decir, toda la información está en una sola máquina y una sola CPU. No interactua con otras computadoras.
+
 ## Base de datos relacional
 
 Una base de datos relacional es un tipo de base de datos que cumple con el modelo relacional postulado por Edgar Frank Codd, de los laboratorios IBM. Estas bases se componen de varias tablas relacionadas sin registros repetidos, organizadas en filas y columnas, por medio de claves primarias y foráneas
@@ -81,3 +85,4 @@ Es un conjunto de herramientas que facilita la consulta, el uso y actualización
 # X
 
 # Z
+
