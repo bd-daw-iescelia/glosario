@@ -1,4 +1,4 @@
-# glosario
+# Glosario
 
 Glosario para el módulo de Bases de Datos de 1º DAW
 
@@ -23,6 +23,10 @@ Una base de datos relacional es un tipo de base de datos que cumple con el model
 ## Base de datos en red
 
 Es una base de datos conformada por una colección o set de registros, los cuales están conectados entre sí por medio de enlaces en una red. El registro es similar al de una entidad como las empleadas en el modelo relacional.
+
+## Big Data
+
+Big Data es un término que describe el gran volumen de datos, tanto estructurados como no estructurados, que inundan los negocios cada día. Pero no es la cantidad de datos lo que es importante. Lo que importa con el Big Data es lo que las organizaciones hacen con los datos. Big Data se puede analizar para obtener ideas que conduzcan a mejores decisiones y movimientos de negocios estratégicos.
 
 ## Blockchain
 
@@ -85,3 +89,4 @@ Es un conjunto de herramientas que facilita la consulta, el uso y actualización
 # X
 
 # Z
+
